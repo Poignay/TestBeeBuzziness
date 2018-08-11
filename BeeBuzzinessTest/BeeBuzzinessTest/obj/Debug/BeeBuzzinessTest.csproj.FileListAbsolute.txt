@@ -1,0 +1,7 @@
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\bin\Debug\BeeBuzzinessTest.exe.config
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\bin\Debug\BeeBuzzinessTest.exe
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\bin\Debug\BeeBuzzinessTest.pdb
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\obj\Debug\BeeBuzzinessTest.csprojResolveAssemblyReference.cache
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\obj\Debug\BeeBuzzinessTest.csproj.CoreCompileInputs.cache
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\obj\Debug\BeeBuzzinessTest.exe
+C:\Users\virtu\Documents\Visual Studio 2017\Projects\TestBeeBuzziness\BeeBuzzinessTest\BeeBuzzinessTest\obj\Debug\BeeBuzzinessTest.pdb
